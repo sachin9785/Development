@@ -267,4 +267,6 @@ class Paypal_lib {
     }
 
 }
+$pr = new Paypal_lib();
+print_r($pr);die("sachin");
 ?>
